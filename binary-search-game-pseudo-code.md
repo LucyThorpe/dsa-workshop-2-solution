@@ -1,9 +1,9 @@
-Functions / Actions
+# Functions / Actions
 
 prompt
 guessNumber
 
-Variables / Data
+# Variables / Data
 
 correctGuess
 numberOfGuesses
@@ -12,7 +12,7 @@ middleValue
 highValue
 userInput (h/l/c)
 
-Logic / Decisions
+# Logic / Decisions
 
 Program start:
 
